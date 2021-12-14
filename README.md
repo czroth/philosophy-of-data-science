@@ -39,7 +39,7 @@ The work of producing realistic synthetic data can help the Data Scientist bette
 The Life-Cycle of Data typically starts with [synthetic data](#synthetic-data) used to prepare and plan for actual observations.
 While the observations are being collected, the dataset is continually growing and is in a dynamic state. Any data reductions that depend on the dataset as a whole will need to be re-run as more data is collected. 
 Once the period of observation is over, the data is in a static (mature) state.
-Eventually, the data either be deleted, or [archived](#archiving) depending on the residual value of the data.
+Eventually, the data will either be deleted, or [archived](#archiving) depending on the residual value of the data.
 
 #### Public and Private Data
 
