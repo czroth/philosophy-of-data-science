@@ -106,9 +106,12 @@ An appreciation for neighbouring departments will help align the Data Scientist'
 
 #### Archiving
 
-At the end of the data's [life cycle](#data-life-cycle) an evaluation should take place to determine if the data should be archived for possible future analysis.
+At the end of the data's [life cycle](#data-life-cycle) an evaluation should take place to determine if the data should be archived for possible future analysis or data auditing.
 Future analysis tools will likely yield greater and more accurate results that present tools.
 If the results of a future, better analysis results could have practical or historical value (and the archival costs are not prohibitive) archiving the data should be considered.
+
+If the result of the evaluation is that the data no longer has value relative to its storage cost, the space should be freed up.
+Practically, this means scheduling data reviews to make and follow through on these determinations. Not holding to this discipline results in a larger data footprint than required.
 
 #### Privacy
 
