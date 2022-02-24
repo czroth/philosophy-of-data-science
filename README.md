@@ -137,6 +137,11 @@ Therefore, there is no conflict between business goals and the imperative to rep
 
 Sometimes, data is corrupt and needs to be evaluated to see if it can be corrected and/or removed, but this should not be used as an excuse to simply remove unwanted data.
 
+#### Auditing
+
+The requirement to the commitment to truth often consequentially leads to leaving a data audit trail that demonstrates how processing data led sequentially from A to B to C.
+Practically this means using versioning tools like Git and along with documentation that describes what inputs and versioned tools produced which outputs.
+
 ### Responsibilities Owed to the Guild
 
 #### Data Science Ecosystem
