@@ -16,6 +16,7 @@ A **Data Scientist**
 is someone capable of [reducing](#the-data-pipeline-data-reduction) data from the observations down to these insights or answers.
 A Data Scientist uses a variety of analysis tools to derive these results.
 The work of a Data Scientist also involves the overall management of data, from its collection through its distribution.
+As the field of Data Science is still being pioneered, problem-solving is an essential skill for a Data Scientist.
 
 ## Details
 
