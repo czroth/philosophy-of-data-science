@@ -103,6 +103,12 @@ Like most departments in a business, Data Science interacts with a number of oth
 The Data Scientist is more productive when they have a working knowledge of neighbouring departments, such as IT and IT Security, Engineering, Marketing, Web Development, etc.
 An appreciation for neighbouring departments will help align the Data Scientist's work to the overall goals of their employer and also help the Data Scientist be more creative in problem solving.
 
+#### Clarity
+
+Whether communicating internally with other departments, or externally with the public, the Data Scientist should strive to be clear and concise in their communication to minimize the opportunity for misunderstanding or confusion.
+We should strive to use visuals that are well crafted and self-explanatory, and metrics that are easy to understand.
+This is especially important when communicating with non-technical audiences.
+
 ### Responsibilities Owed to the Public
 
 #### Archiving
