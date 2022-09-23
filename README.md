@@ -23,7 +23,7 @@ As the field of Data Science is still being pioneered, problem-solving is an ess
 ### The nature of data
 
 **Datasets**
-Data is often part of a Dataset, which is a collection of variables with some common dimension or dimensions. Often one of the dimensions is temporal or spacial.
+Data is often part of a Dataset, which is a collection of variables with some common dimension or dimensions. Often one of the dimensions is temporal or spatial.
 
 **Data Collection** 
 is the process of gathering data. The process is usually via a digial recording device, but can also be through an analog recording device or human observation. Care must be taken to avoid introducing sampling bias into the data. Often the first [reduction](#data-reduction) performed is a calibration step to characterize for and remove biases.
